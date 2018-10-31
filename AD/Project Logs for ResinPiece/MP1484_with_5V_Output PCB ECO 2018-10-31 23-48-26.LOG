@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND_0603 New Footprint=IND_CD32
+Added Member To Class: ClassName=MP1484_with_5V_Output Member=Component C7 Cap

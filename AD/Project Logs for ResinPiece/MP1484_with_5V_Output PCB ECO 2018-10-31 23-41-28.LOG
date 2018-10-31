@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C6 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Added Member To Class: ClassName=MP1484_with_5V_Output Member=Component C7 Cap
