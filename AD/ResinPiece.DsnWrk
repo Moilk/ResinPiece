@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Laser_driver_adj_3A_TTL.PrjPCB
-[Project2]
 ProjectPath=ResinPiece.LibPkg
+[Project2]
+ProjectPath=无线充电驱动.PrjPCB
