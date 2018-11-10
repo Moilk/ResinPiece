@@ -3,4 +3,6 @@ Version=1.0
 [Project1]
 ProjectPath=ResinPiece.LibPkg
 [Project2]
-ProjectPath=XKT3619_wireless_charging_driver.PrjPCB
+ProjectPath=XKT3619_wireless_charging_driver_R.PrjPCB
+[Project3]
+ProjectPath=XKT3619_wireless_charging_driver_T.PrjPCB
